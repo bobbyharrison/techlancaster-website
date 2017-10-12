@@ -1,4 +1,11 @@
-@import url("https://fonts.googleapis.com/css?family=Lato-Regular");
+@import url("https://fonts.googleapis.com/css?family=Lato");
 @import url("reset.css");
+header {
+  width: 100%;
+  height: 58px;
+  text-align: left; }
+
+.lanc {
+  font-family: 'Lato', sans-serif; }
 
 /*# sourceMappingURL=styles.css.map */
