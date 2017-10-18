@@ -2,6 +2,7 @@
 @import url("reset.css");
 @import url("header.scss");
 @import url("footer.scss");
+@import url("hero.scss");
 body {
   min-width: 320px;
   overflow-x: hidden; }
