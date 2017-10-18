@@ -1,31 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Lato');
 @import url("reset.css");
+@import url("header.scss");
+@import url("footer.scss");
+
+
 
 body {
-  width: 320px;
-}
-header {
-  width: 100%;
-  height: 58px;
-  text-align: left;
-  background-color: #ffab00;
-}
-.lanc {
-  span {
-    font-weight:700;
-  }
-  font-family: 'Lato', sans-serif;
-  font-size: 21px;
-  color: #064159;
-  font-weight: 400;
-  letter-spacing: 2.1px;
-  padding: 22px;
-  line-height: 15px;
-}
-.bar {
-overflow: hidden;
-background-color: #333;
-text-align: right;
+  min-width: 320px;
+overflow-x: hidden;
 }
 
 
