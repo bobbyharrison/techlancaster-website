@@ -1,8 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Lato');
 @import url("reset.css");
 @import url("header.scss");
+@import url("footer.scss");
+
+
+
 body {
-  width: 320px;
+  min-width: 320px;
 overflow-x: hidden;
 }
 
