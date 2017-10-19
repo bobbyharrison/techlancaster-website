@@ -1,12 +1,11 @@
-@import url("reset.css");
-@import url("colors-fonts.scss");
-@import url("homepage-content.scss");
+@import "colors-fonts";
+@import "header.scss";
+@import "reset.css";
+@import "homepage-content.scss";
 @import url('https://fonts.googleapis.com/css?family=Lato');
 @import url('https://fonts.googleapis.com/css?family=Droid+Serif');
-@import url("header.scss");
-@import url("footer.scss");
-@import url("hero.scss");
-
+@import "footer.scss";
+@import "hero.scss";
 body {
   min-width: 320px;
   overflow-x: hidden;
