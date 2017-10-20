@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-/*
-Error: File to import not found or unreadable: reset.
-        on line 1 of styles.scss
-=======
+
 @import url(reset.css);
 @import url("https://fonts.googleapis.com/css?family=Lato");
 @import url("https://fonts.googleapis.com/css?family=Droid+Serif");
@@ -225,6 +221,7 @@ footer {
 body {
   min-width: 320px;
   overflow-x: hidden; }
+//*
 >>>>>>> 78096fcdd3be4bf25a52d04b1d3ee5938ac7f657
 
 1: @import "reset";
