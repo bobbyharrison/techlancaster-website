@@ -8,7 +8,6 @@
   color: #efe9d8; }
   .corevalues2 a {
     padding-top: 30px; }
-
 .meetup2 {
   display: flex;
   flex-direction: column;
@@ -45,17 +44,17 @@ header {
   padding: 22px;
   line-height: 15px; }
   .lanc .lancaster {
-    font-weight: 21px; }
+    font-weight: 30px; }
 
 .bar {
-  text-align: center;
   display: flex;
   width: 100%;
   flex-direction: row;
   padding-left: 20px;
-  background-color: grey; }
+  background-color: #ffab00; }
   .bar li {
-    text-decoration: none; }
+    text-decoration: none;
+    padding-right: 10px; }
 
 .color {
   background-color: #ffc400; }
